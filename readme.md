@@ -32,7 +32,7 @@ Décompression + déchiffrement avec vérification du mot de passe
 
 📥 Installation
 1. Cloner ou télécharger le projet
-git clone 
+git clone https://github.com/RahmanTurkmen/RHash.git
 cd rhash
 
 2. Installer les dépendances
